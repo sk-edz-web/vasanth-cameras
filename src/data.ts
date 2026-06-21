@@ -8,8 +8,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 164999,
     description: 'A classic dial-driven enthusiast mirrorless camera equipped with a high-resolution 40MP APS-C sensor, 3-way tilting LCD, and legendary film simulation modes for creators.',
     images: [
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Fujifilm_X-T5.jpg/800px-Fujifilm_X-T5.jpg',
-      'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&h=600&q=80'
+      'https://cdn.mos.cms.futurecdn.net/ubcLwYk8iEPrGv3HtYpgnJ.jpg',
+      'https://i.pcmag.com/imagery/roundups/01VxxK8O0IyVMPFyM43N8Pw-8..v1640117355.jpg'
     ],
     category: 'Mirrorless',
     condition: 'New',
@@ -23,8 +23,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 214999,
     description: 'The ultimate hybrid full-frame mirrorless camera. Packed with ground-breaking autofocus, 33MP Exmor R sensor, and spectacular 4K 60p optical performance.',
     images: [
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sony_Alpha_7_IV.jpg/800px-Sony_Alpha_7_IV.jpg',
-      'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?auto=format&fit=crop&w=800&h=600&q=80'
+      'https://m.media-amazon.com/images/I/71BaBwNek-L.jpg',
+      'https://m.media-amazon.com/images/I/81q2U3pGBGL.jpg'
     ],
     category: 'Mirrorless',
     condition: 'New',
@@ -38,8 +38,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 229999,
     description: 'High-speed powerhouse designed for action. Shoot raw bursts up to 40 fps, track subjects with deep learning, and record beautiful uncropped 4K 60p oversampled video.',
     images: [
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Canon_EOS_R6_front.jpg/800px-Canon_EOS_R6_front.jpg',
-      'https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?auto=format&fit=crop&w=800&h=600&q=80'
+      'https://rukmini1.flixcart.com/image/1500/1500/xif0q/dslr-camera/6/a/q/-original-imahgget2bqwm3za.jpeg?q=70',
+      'https://m.media-amazon.com/images/I/71eOQ5ssTAL.jpg'
     ],
     category: 'Mirrorless',
     condition: 'New',
@@ -47,14 +47,14 @@ export const SAMPLE_CAMERAS: Camera[] = [
     stock: 4
   },
   {
-    id: 'hasselblad-500c',
-    name: 'Vintage Hasselblad 500C/M Medium Format',
+    id: 'sony alpha',
+    name: 'sony alpha',
     brand: 'Hasselblad',
     price: 189999,
     description: 'The legendary mechanical SLR camera that captured the moon landing. Delivers standard-setting 6x6 medium format clarity with legendary Zeiss planar optics.',
     images: [
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Hasselblad_500c.jpg/800px-Hasselblad_500c.jpg',
-      'https://images.unsplash.com/photo-1554080353-a576cf803bda?auto=format&fit=crop&w=800&h=600&q=80'
+      'https://m.media-amazon.com/images/I/71zs+RZUggL._AC_UF894,1000_QL80_.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0Nxq39hyP_uVvdlnFsom51LsWu7WCAEY0Q&s'
     ],
     category: 'Vintage',
     condition: 'Vintage',
@@ -62,14 +62,14 @@ export const SAMPLE_CAMERAS: Camera[] = [
     stock: 1
   },
   {
-    id: 'leica-m6-retro',
-    name: 'Leica M6 Classic Rangefinder',
+    id: 'black magic',
+    name: 'black magic',
     brand: 'Leica',
     price: 285000,
     description: 'Indestructible brass and steel chassis rangefinder. The holy grail of street photography, incorporating a built-in light meter in a timeless analog design.',
     images: [
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Leica_M6.jpg/800px-Leica_M6.jpg',
-      'https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&h=600&q=80'
+      'https://m.media-amazon.com/images/I/61cQsrKyHXL._AC_UF1000,1000_QL80_.jpg',
+      'https://m.media-amazon.com/images/I/61HN7WoMpfL._AC_UF1000,1000_QL80_.jpg'
     ],
     category: 'Vintage',
     condition: 'Used - Like New',
@@ -83,8 +83,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 349999,
     description: 'Designed specifically for professional solo creators. Includes standard multi-thread mounting sockets, S-Cinetone color profile, XLR top handle, and active noiseless cooling.',
     images: [
-      'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sony_Alpha_7S_III.jpg/800px-Sony_Alpha_7S_III.jpg',
-      'https://images.unsplash.com/photo-1495707902641-75cac588d2e9?auto=format&fit=crop&w=800&h=600&q=80'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8EA0-3PAfn_Yn_h6t6qHN76WHperDzR3Eig&s',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKNNs6IK6vWebG1PAxd116FWz4Td7fD392bw&s'
     ],
     category: 'Cinema',
     condition: 'New',
