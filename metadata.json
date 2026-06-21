@@ -1,0 +1,6 @@
+{
+  "name": "Vasanth Cameras",
+  "description": "Premium camera store in Tamil Nadu offering DSLR, mirrorless, and classic cameras with instant WhatsApp ordering and admin catalog management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

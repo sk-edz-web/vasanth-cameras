@@ -1,0 +1,29 @@
+{
+  "entities": {
+    "Camera": {
+      "title": "Camera",
+      "description": "Represents a camera card listed in the store",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string", "description": "Unique camera identifier" },
+        "name": { "type": "string", "description": "Brand and model name of the camera" },
+        "brand": { "type": "string", "description": "Camera lens or body manufacturer" },
+        "price": { "type": "integer", "description": "Price of the camera in INR" },
+        "description": { "type": "string", "description": "Long-form description of camera conditions or capabilities" },
+        "images": { "type": "array", "description": "List of URLs for uploaded camera body shots" },
+        "category": { "type": "string", "description": "Category of the camera (Mirrorless, DSLR, Vintage, Cinema)" },
+        "condition": { "type": "string", "description": "Visual or operational status card" },
+        "specs": { "type": "array", "description": "Performance attributes list" },
+        "stock": { "type": "integer", "description": "Available inventory" },
+        "createdAt": { "type": "string", "description": "Document generation ISO timestamp" }
+      },
+      "required": ["id", "name", "price", "description", "images", "category", "condition", "stock"]
+    }
+  },
+  "firestore": {
+    "cameras/{cameraId}": {
+      "schema": "Camera",
+      "description": "Catalog of all cameras available for rent or purchase"
+    }
+  }
+}
