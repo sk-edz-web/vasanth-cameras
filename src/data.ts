@@ -8,9 +8,9 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 164999,
     description: 'A classic dial-driven enthusiast mirrorless camera equipped with a high-resolution 40MP APS-C sensor, 3-way tilting LCD, and legendary film simulation modes for creators.',
     images: [
-      'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?auto=format&fit=crop&w=800&h=600&q=80'
+      '/images/cameras/fujifilm-xt5-1.jpg',
+      '/images/cameras/fujifilm-xt5-2.jpg',
+      '/images/cameras/fujifilm-xt5-3.jpg'
     ],
     category: 'Mirrorless',
     condition: 'New',
@@ -24,9 +24,9 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 214999,
     description: 'The ultimate hybrid full-frame mirrorless camera. Packed with ground-breaking autofocus, 33MP Exmor R sensor, and spectacular 4K 60p optical performance.',
     images: [
-      'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1616440347437-b1c73ec5443e?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1495707902641-75cac588d2e9?auto=format&fit=crop&w=800&h=600&q=80'
+      '/images/cameras/sony-a7iv-1.jpg',
+      '/images/cameras/sony-a7iv-2.jpg',
+      '/images/cameras/sony-a7iv-3.jpg'
     ],
     category: 'Mirrorless',
     condition: 'New',
@@ -40,8 +40,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 229999,
     description: 'High-speed powerhouse designed for action. Shoot raw bursts up to 40 fps, track subjects with deep learning, and record beautiful uncropped 4K 60p oversampled video.',
     images: [
-      'https://images.unsplash.com/photo-1502982720700-bfff97f2ecac?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&h=600&q=80'
+      '/images/cameras/canon-r6-ii-1.jpg',
+      '/images/cameras/canon-r6-ii-2.jpg'
     ],
     category: 'Mirrorless',
     condition: 'New',
@@ -55,8 +55,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 189999,
     description: 'The legendary mechanical SLR camera that captured the moon landing. Delivers standard-setting 6x6 medium format clarity with legendary Zeiss planar optics.',
     images: [
-      'https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1554080353-a576cf803bda?auto=format&fit=crop&w=800&h=600&q=80'
+      '/images/cameras/hasselblad-500c-1.jpg',
+      '/images/cameras/hasselblad-500c-2.jpg'
     ],
     category: 'Vintage',
     condition: 'Vintage',
@@ -70,8 +70,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 285000,
     description: 'Indestructible brass and steel chassis rangefinder. The holy grail of street photography, incorporating a built-in light meter in a timeless analog design.',
     images: [
-      'https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1554080353-a576cf803bda?auto=format&fit=crop&w=800&h=600&q=80'
+      '/images/cameras/leica-m6-1.jpg',
+      '/images/cameras/leica-m6-2.jpg'
     ],
     category: 'Vintage',
     condition: 'Used - Like New',
@@ -85,8 +85,8 @@ export const SAMPLE_CAMERAS: Camera[] = [
     price: 349999,
     description: 'Designed specifically for professional solo creators. Includes standard multi-thread mounting sockets, S-Cinetone color profile, XLR top handle, and active noiseless cooling.',
     images: [
-      'https://images.unsplash.com/photo-1495707902641-75cac588d2e9?auto=format&fit=crop&w=800&h=600&q=80',
-      'https://images.unsplash.com/photo-1607462109225-6b64ae2dd3cb?auto=format&fit=crop&w=800&h=600&q=80'
+      '/images/cameras/sony-fx3-1.jpg',
+      '/images/cameras/sony-fx3-2.jpg'
     ],
     category: 'Cinema',
     condition: 'New',
